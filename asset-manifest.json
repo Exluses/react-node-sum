@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-node-sum/static/css/main.3fad82ab.css",
+    "main.js": "/react-node-sum/static/js/main.5c51bed8.js",
+    "static/js/488.dd8650e7.chunk.js": "/react-node-sum/static/js/488.dd8650e7.chunk.js",
+    "index.html": "/react-node-sum/index.html",
+    "main.3fad82ab.css.map": "/react-node-sum/static/css/main.3fad82ab.css.map",
+    "main.5c51bed8.js.map": "/react-node-sum/static/js/main.5c51bed8.js.map",
+    "488.dd8650e7.chunk.js.map": "/react-node-sum/static/js/488.dd8650e7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3fad82ab.css",
+    "static/js/main.5c51bed8.js"
+  ]
+}
